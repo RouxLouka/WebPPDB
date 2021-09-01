@@ -134,7 +134,6 @@
                                 <div class="market-status-table mt-4">
                                     <div class="table-responsive">
 										 Selamat datang di sistem informasi Penerimaan Peserta Didik Baru (PPDB) Online.
-                                         <br>Sistem ini disusun oleh Richard's Lab
                                     </div>
                                 </div>
                             </div>

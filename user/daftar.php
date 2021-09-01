@@ -145,7 +145,6 @@
                                 <div class="market-status-table mt-4">
                                     <div class="table-responsive">
 										 Selamat datang di sistem informasi Penerimaan Peserta Didik Baru (PPDB) Online.
-                                         <br>Sistem ini disusun oleh Richard's Lab
                                          <br><br>
                                          Panduan Pendaftaran:
                                          <br>1. Isi seluruh formulir yang ditampilkan kemudian periksa kembali, pastikan tidak ada data yang salah.

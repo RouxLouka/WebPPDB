@@ -116,8 +116,6 @@ h4{font-size:85%;}
 			<div class="container">
 					<div style="color:white">
 					<label>Login</label><br \>
-					<label>Email: guest@richard.id  |  Password : guest</label><br \>
-					<label>Email: admin@richard.id  |  Password : admin</label>
 					</div>
                 <form method="post">
                     <div class="form-group">
