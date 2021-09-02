@@ -39,7 +39,7 @@
 <body>
 		<div class="container">
 			<h2>Data User Terdaftar</h2>
-			<h4>(SMK Richard's Lab)</h4>
+			<h4>(Walid Academy)</h4>
 				<div class="data-tables datatable-dark">
 					<table class="display" id="dataTable3" style="width:100%"><thead class="thead-dark">
 											<tr>

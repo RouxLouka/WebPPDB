@@ -601,7 +601,7 @@
         <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>PPDB Online by Richard's Lab</p>
+                <p>PPDB Online by Walid Academy</p>
             </div>
         </footer>
         <!-- footer area end-->

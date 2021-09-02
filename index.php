@@ -175,7 +175,7 @@
         </footer>
         <!-- Copyright Section-->
         <div class="copyright py-4 text-center text-white">
-            <div class="container"><small>PPDB Online by Richard's Lab - 2020</small></div>
+            <div class="container"><small>PPDB Online by Walid Academy - 2021</small></div>
         </div>
         <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes)-->
         <div class="scroll-to-top d-lg-none position-fixed">

@@ -209,7 +209,7 @@
         <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>By Richard's Lab</p>
+                <p>By Walid Academy</p>
             </div>
         </footer>
         <!-- footer area end-->

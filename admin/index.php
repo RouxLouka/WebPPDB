@@ -12,7 +12,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Richard's Lab: Admin Dashboard</title>
+    <title>Walid Academy : Admin Dashboard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="../assets/images/icon/favicon.ico">
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
@@ -149,7 +149,7 @@
         <!-- footer area start-->
         <footer>
             <div class="footer-area">
-                <p>PPDB Online by Richard's Lab</p>
+                <p>PPDB Online by Walid Academy</p>
             </div>
         </footer>
         <!-- footer area end-->
