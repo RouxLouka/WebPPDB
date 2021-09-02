@@ -26,7 +26,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Richard's Lab: Pendaftaran</title>
+    <title>Walid Academy : Pendaftaran</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="../assets/images/icon/favicon.ico">
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
@@ -158,12 +158,54 @@
                         </div>
                     </div>
                 </div>
+            </div>
 
 
 <!------------------ Pisahin ------------------->
 
 
                 <form method="post" enctype="multipart/form-data">
+                <!-- Tahun Ajaran Dan Jurusan yang Akan dipilih -->
+                <div class="row mt-5 mb-5">
+                    <div class="col-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="d-sm-flex justify-content-between align-items-center">
+									<h2>Formulir Pendaftaran</h2>
+                                    <p>Isi Tahun Ajaran dan Pilih Jurusan yang akan dipilih</p>
+                                </div>
+                                    
+                                <div class="row">
+                                    <div class="col">
+                                            <div class="form-group">
+                                                <label>Tahun Ajaran</label>
+                                                <select class="form-control" name="jeniskelamin">
+                                                <option value="2021/2022">2021/2022</option>
+                                                <option value="2022/2023">2022/2023</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>  
+
+                                <div class="row">
+                                    <div class="col">
+                                            <div class="form-group">
+                                                <label>Jurusan</label>
+                                                <select class="form-control" name="jeniskelamin">
+                                                <option value="Teknik Informatika">Teknik Informatika</option>
+                                                <option value="Sastra Jepang">Sastra Jepang</option>
+                                                <option value="Sastra Inggris">Sastra Inggris</option>
+                                                <option value="Administrasi">Administrasi</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                
+
                 <!-- formulir -->
                 <div class="row mt-5 mb-5">
                     <div class="col-12">
@@ -524,7 +566,7 @@
                             <div class="card-body">
                                 <div class="d-sm-flex justify-content-between align-items-center">
 									<h2>Data Sekolah Asal & Berkas</h2>
-                                    <p>Data yang telah diinput tidak dapat diubah kemabli</p>
+                                    <p>Data yang telah diinput tidak dapat diubah kembali</p>
                                 </div>
                                 <div class="market-status-table mt-4">
                                     <div class="table-responsive" style="overflow-x:hidden;">
