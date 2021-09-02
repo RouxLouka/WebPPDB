@@ -130,8 +130,8 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
-                    <div class="col-lg-4 ml-auto"><p class="lead">Pendaftaran akan dibuka untuk tahun ajaran 2021-2022. Jurusan Multimedia, Teknik Komputer dan Jaringan (TKJ), Rekayasa Perangkat Lunak (RPL).</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">Langkah pertama mendaftar adalah klik tombol sign in, jika belum memiliki akun, harap sign up terlebih dahulu. Kemudian lengkapi data dan berkas yang diminta.</p></div>
+                    <div class="col-lg-4 ml-auto"><p class="lead">Pendaftaran akan dibuka untuk tahun ajaran 2021-2022.</p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead">Langkah pertama mendaftar adalah klik tombol Daftar, jika belum memiliki akun, harap daftar terlebih dahulu. Kemudian lengkapi data dan berkas yang diminta.</p></div>
                 </div>
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
