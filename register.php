@@ -97,7 +97,7 @@ h4{font-size:85%;}
   
   
 
-  <img src="logo.png" width="30%" style="margin-top:2%" \>
+  <a href="index.php"><img src="logo.png" width="30%" style="margin-top:2%" \></a>
 
 	<br \><br \>
 			<div class="container">
